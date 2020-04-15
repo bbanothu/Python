@@ -1,2 +1,3 @@
 # Python
-Python Code
+Messing around in Python.
+- Sockets, Tcp, Udp. 
